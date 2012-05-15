@@ -3,6 +3,7 @@
 
 This is a simple implementation of a view manager for Backbone as explained in this blog post:
 
+http://hjortureh.tumblr.com/post/23095099687/backbone-js-routing-made-simple
 
 
 ## Usage
